@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="GemResource" load_steps=3 format=3 uid="uid://c7alrhlgry0ml"]
+
+[ext_resource type="Texture2D" uid="uid://d2upxlc47tknn" path="res://addons/custom_resource_previews/Example/Textures/RubyTexture.png" id="1_cbsiw"]
+[ext_resource type="Script" uid="uid://csvwjrwyeuykx" path="res://addons/custom_resource_previews/Example/GemResource.gd" id="1_ci380"]
+
+[resource]
+script = ExtResource("1_ci380")
+name = "Ruby"
+icon = ExtResource("1_cbsiw")
+value = 20
+metadata/_custom_type_script = "uid://csvwjrwyeuykx"

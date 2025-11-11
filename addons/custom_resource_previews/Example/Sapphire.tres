@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="GemResource" load_steps=3 format=3 uid="uid://c2fhlisglaphp"]
+
+[ext_resource type="Texture2D" uid="uid://cm4ec7q1tuls1" path="res://addons/CustomResourcePreviews/Example/Textures/SapphireTexture.png" id="1_dhqqu"]
+[ext_resource type="Script" uid="uid://csvwjrwyeuykx" path="res://addons/CustomResourcePreviews/Example/GemResource.gd" id="1_s13xh"]
+
+[resource]
+script = ExtResource("1_s13xh")
+name = "Sapphire"
+icon = ExtResource("1_dhqqu")
+value = 30
+metadata/_custom_type_script = "uid://csvwjrwyeuykx"
