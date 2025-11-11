@@ -2,6 +2,8 @@
 
 A Godot plugin that enables custom preview images for your resources in the editor.
 
+![Custom Resource Previews Screenshot](./screenshots/resource_selection.png)
+
 ## Features
 
 - Define custom preview textures for your resource instances
