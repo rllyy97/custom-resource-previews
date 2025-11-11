@@ -1,4 +1,7 @@
-# Custom Resource Previews
+<h1>
+	<img src="./CustomResourcePreviewsIcon.png" width="32">
+	Custom Resource Previews
+</h1>
 
 A Godot plugin that enables custom preview images for your resources in the editor.
 
