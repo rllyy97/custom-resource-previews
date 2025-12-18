@@ -21,7 +21,8 @@ A Godot plugin that enables custom preview images for your resources in the edit
 
 ## Usage
 
-Implement the `_get_custom_preview_texture()` method in your custom resource script:
+1. Add the `@tool` annotation to your custom resource script
+2. Implement the `_get_custom_preview_texture()` method in your custom resource script:
 
 ```gdscript
 @tool
